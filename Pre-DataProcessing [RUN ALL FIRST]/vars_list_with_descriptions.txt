@@ -1,0 +1,18 @@
+CVDCRHD4 - (Ever told) (you had) angina or coronary heart disease?
+_BMI5 - Body Mass Index (BMI)
+SMOKE100 - Have you ever smoked before?
+DRNKANY6 - Adults who reported having had at least one drink of alcohol in the past 30 days.
+CVDSTRK3 - (Ever told) (you had) a stroke.
+PHYSHLTH - Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good?
+MENTHLTH - Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?
+DIFFWALK - Do you have serious difficulty walking or climbing stairs?
+SEXVAR - Sex of Respondent
+_AGEG5YR - Fourteen-level age category
+_RACEGR4 - Five-level race/ethnicity category
+DIABETE4 - (Ever told) (you had) diabetes?
+EXERANY2 - During the past month, other than your regular job, did you participate in any physical activities or exercises such as running, calisthenics, golf, gardening, or walking for exercise?
+GENHLTH - Would you say that in general your health is:
+SLEPTIM1 - On average, how many hours of sleep do you get in a 24-hour period?
+ASTHMA3 - (Ever told) (you had) asthma?
+CHCKDNY2 - Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?
+CHCSCNC1 - (Ever told) (you had) skin cancer that is not melanoma?
