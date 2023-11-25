@@ -5,7 +5,7 @@ To replicate the preprocessing and postprocessing for this dataset, please follo
 
 2. Inside the "PROJECT_HEARTDISEASE" folder, locate and enter the "Pre-DataProcessing" folder. Once inside, open the "data_processing.ipynb" file.
 
-3. In the Jupyter Notebook menu bar (the top bar), you'll find a "Cell" section. Click on "Cell."
+3. In the Jupyter Notebook menu bar (the top bar), you'll find a "Cell" or "Run" section. Click on "Cell" or "Run".
 
 4. Within the "Cell" section, select "Run All" to execute all the cells in the "data_processing.ipynb" file. This will ensure that you have all the necessary imports, settings, and files for this project.
 
